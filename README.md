@@ -100,9 +100,9 @@ Testing was conducted on the following architectures.
 <img src="file:///C:/Users/razee/OneDrive%20-%20University%20of%20Cape%20Town/CSC2002S/Assignments/PCP1/together.png" title="" alt="" data-align="center">
 
 <p style="text-align:left;">
-    <i>Figure 1 (Left): Speedup graph of a 4-Core vs a 10-Core system.</i>
+    <i>Figure 1 (Left): Speedup graph of a 4-Core vs a 10-Core system.(Image unavailable, see PDF report for more.)</i>
     <span style="float:right;">
-        <i>Figure 2 (Right): Speedup graph of Nightmare vs a 10-Core system.</i>
+        <i>Figure 2 (Right): Speedup graph of Nightmare vs a 10-Core system.(Image unavailable, see PDF report for more.)</i>
     </span>
 </p>
 
