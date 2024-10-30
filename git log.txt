@@ -1,0 +1,64 @@
+razeen@RazVivobook:~/CSC2002S/MyRepo/Parallel/src/parallelAbelianSandpile$ git log
+commit 3186dc9f645154e3a303480c40942a5212b474fd (HEAD -> master)
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Wed Aug 14 13:17:18 2024 +0200
+
+    PCP 1| Details below
+
+    Added GridValidator to validate the grids using parallelisation.
+    This is the end of development for this project.
+
+commit c3caeaecbcc6a08503d591aeea6b2308d9282157 (HEAD -> master)
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Tue Aug 6 19:43:13 2024 +0200
+
+    PCP1 | Details below
+
+            Moved SandMain and Pgrid into new folder.
+            Adapted methods and switched from subgrid approach to row-approach.
+
+commit 788675736b4f58789dd9d8ac24d2bdaf28601fb9
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Sun Aug 4 10:56:13 2024 +0200
+
+    PCP1 | Last instance of quadrant split using Pgrid (new to try arr[][])
+
+commit 44de892412c70c4361817ec16276c838a1ff19e0
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Sat Aug 3 19:18:28 2024 +0200
+
+    PCP1 | Details below
+
+            Created | SandMain.java ->  Runner class for parallel simulation.
+            Edit    | Pgrid.java -> compute() method edits.
+
+commit 62935e3ee043be23fdf0d8b3544a137effe44769
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Thu Aug 1 21:52:26 2024 +0200
+
+    PCP1 | Created new grid class Pgrid to manage grid.
+            Begin implementaion of ForkJoin.
+
+commit 00d15be8b495ad464fe9e2a5353601793c020504
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Thu Aug 1 15:14:23 2024 +0200
+
+    PCP1 | remove.
+
+commit 3af69c80b68e739c4c251a4784018292c5a565f4
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Thu Aug 1 15:12:50 2024 +0200
+
+    PCP1 | Re starting
+
+commit 519a914f2f8f40ebc00819b964df456b2136bb83
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Wed Jul 31 21:46:23 2024 +0200
+
+    PCP1 | Copied over serial program and preparing to implement ForkJoinPool
+
+commit edabf9e7b8df478ac822ef4c9e1f30e2fdcb2cb8
+Author: Razeen Brey <bryraz002@myuct.ac.za>
+Date:   Wed Jul 31 20:38:00 2024 +0200
+
+    PCP1 | Base Assignment files added
